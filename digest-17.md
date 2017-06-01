@@ -110,3 +110,28 @@
 4 ошибки, которые не должен допускать [серьезный ревьюер кода](http://www.yegor256.com/2015/02/09/serious-code-reviewer.html).
 
 [Практическое машинное обучение](https://monzo.com/blog/2017/05/03/practical-machine-learning-for-startups/) для стартапов.
+
+Разница между HTTP 1.x и HTTP/2
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">HTTP what? : I drew what HTTP is &amp; how HTTP1.x and HTTP2 are different✨<br><br>(tweetzine, drawsplainer, codedoodles…I don&#39;t know what to call it) <a href="https://t.co/NEhqlT9rdR">pic.twitter.com/NEhqlT9rdR</a></p>&mdash; Mariko Kosaka (@kosamari) <a href="https://twitter.com/kosamari/status/859958929484337152">May 4, 2017</a></blockquote>
+
+
+[Stack Overflow](https://stackoverflow.blog/2017/05/09/introducing-stack-overflow-trends/) тренды.
+
+[Новые дистрибутивы Linux](https://blogs.msdn.microsoft.com/commandline/2017/05/11/new-distros-coming-to-bashwsl-via-windows-store/) на Bash for Windows.
+
+[Анализ WannCry](https://www.troyhunt.com/everything-you-need-to-know-about-the-wannacrypt-ransomware/) от Троя Ханта.
+
+[Путешествие к фунуциональному программированию](http://hmemcpy.com/2017/05/from-net-to-scala-and-beyond-a-journey-to-functional-programming/) от .NET до Скала и далее.
+
+
+**Книги**
+
+Сжато про [Aurelia](https://www.syncfusion.com/resources/techportal/details/ebooks/aurelia_succinctly).
+
+**Приколы**
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When ransomware guys provide better customer support than most companies 😂<a href="https://twitter.com/hashtag/WannaCry?src=hash">#WannaCry</a> <a href="https://t.co/H7SIFV5WKl">pic.twitter.com/H7SIFV5WKl</a></p>&mdash; Faizal (@fztalks) <a href="https://twitter.com/fztalks/status/864852163230609408">May 17, 2017</a></blockquote>
+
+Про [уязвимости AutoMapper](https://stackoverflow.com/questions/43648876/automapper-security-vulnerabilities-upgrade-from-3-2-1-0-to-5-1-1/).
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
