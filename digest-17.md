@@ -140,4 +140,4 @@
 Функционально программирование на JavaScript:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">☹️ <a href="https://t.co/dqShyHHtgk">pic.twitter.com/dqShyHHtgk</a></p>&mdash; FOST (@GeorgeFoster72) <a href="https://twitter.com/GeorgeFoster72/status/860527602737582080">May 5, 2017</a></blockquote>
 
-<!--<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>-->
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
