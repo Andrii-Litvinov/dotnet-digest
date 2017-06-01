@@ -107,6 +107,7 @@
 Работа с SQL в IDE на базе [IntelliJ](https://info.jetbrains.com/DataGrip-Webinar-Jun2017-Registration.html).
 
 **Разное**
+
 4 ошибки, которые не должен допускать [серьезный ревьюер кода](http://www.yegor256.com/2015/02/09/serious-code-reviewer.html).
 
 [Практическое машинное обучение](https://monzo.com/blog/2017/05/03/practical-machine-learning-for-startups/) для стартапов.
@@ -132,6 +133,11 @@
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When ransomware guys provide better customer support than most companies 😂<a href="https://twitter.com/hashtag/WannaCry?src=hash">#WannaCry</a> <a href="https://t.co/H7SIFV5WKl">pic.twitter.com/H7SIFV5WKl</a></p>&mdash; Faizal (@fztalks) <a href="https://twitter.com/fztalks/status/864852163230609408">May 17, 2017</a></blockquote>
 
-Про [уязвимости AutoMapper](https://stackoverflow.com/questions/43648876/automapper-security-vulnerabilities-upgrade-from-3-2-1-0-to-5-1-1/).
+[Уязвимости AutoMapper](https://stackoverflow.com/questions/43648876/automapper-security-vulnerabilities-upgrade-from-3-2-1-0-to-5-1-1/).
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Уязвимости Json.NET](https://stackoverflow.com/questions/43650272/security-vulnerabilities-if-we-upgrade-newtonsoft-json-from-6-0-4-to-9-0-1)
+
+Функционально программирование на JavaScript:
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">☹️ <a href="https://t.co/dqShyHHtgk">pic.twitter.com/dqShyHHtgk</a></p>&mdash; FOST (@GeorgeFoster72) <a href="https://twitter.com/GeorgeFoster72/status/860527602737582080">May 5, 2017</a></blockquote>
+
+<!--<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>-->
