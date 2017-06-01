@@ -74,6 +74,8 @@
 
 [Akka.NET](https://petabridge.com/blog/akkadotnet-2017-roadmap/) будет поддерживать .NET Standard 1.3 в следующем обновлении.
 
+[NServiceBus](https://particular.net/blog/nservicebus-on-net-core-its-time) будет поддерживать .NET Core 2.0.
+
 [Chrome 59](https://developers.google.com/web/updates/2017/04/headless-chrome) будет сожержать headless-browser (для Windows чуть позже).
 
 [Развертывание](http://docs.servicestack.net/deploy-netcore-docker-aws-ecs) ASP.NET Core с Docker в AWS.
@@ -81,3 +83,23 @@
 Оптимизированные [Docker образы](https://blogs.msdn.microsoft.com/stevelasker/2016/09/29/building-optimized-docker-images-with-asp-net-core/) с .NET Core.
 
 **Интерфейсы**
+
+[Управление сложностью в Redux](http://engineering.blogfoster.com/managing-complexity-in-redux-higher-order-reducers-and-async-state/): редьюсеры более высокого порядка и асинхронное состояние.
+
+[Новый интерфейс YouTube](http://engineering.blogfoster.com/managing-complexity-in-redux-higher-order-reducers-and-async-state/) реализовали на Polymer.
+
+Анонс [TypeScript 2.3](https://blogs.msdn.microsoft.com/typescript/2017/04/27/announcing-typescript-2-3/).
+
+Анонс [Polymer 2.0](https://www.polymer-project.org/blog/2017-05-15-time-for-two).
+
+[Прогрессивне веб-приложения](https://www.youtube.com/watch?v=aCMbSyngXB4) с JavaScript фреймворками.
+
+[Polymer на Google I/O 2017](https://www.polymer-project.org/blog/2017-05-26-polymer-at-io-17): положение дел с веб-компонентами, работа на ошибками, инструменты.
+
+[Шпаргалка](https://meowni.ca/posts/polymer-2-cheatsheet/) по Polymer 2.0.
+
+Решение проблем с SEO с помощью [Headless Chrome](https://medium.com/@samdotli/solving-seo-with-headless-chrome-for-your-client-side-framework-288e66fdd2b7).
+
+**События**
+
+Работа с SQL в IDE на базе [IntelliJ](https://info.jetbrains.com/DataGrip-Webinar-Jun2017-Registration.html).
