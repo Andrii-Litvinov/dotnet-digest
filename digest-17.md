@@ -24,6 +24,8 @@
 
 Будущее Майкрософт [serverless](http://diginomica.com/2017/04/19/will-microsofts-serverless-future-turn-into-a-faas/).
 
+МС открала исходный код [Service Fabric](https://blogs.msdn.microsoft.com/azureservicefabric/2017/03/24/service-fabric-net-sdk-goes-open-source/).
+
 **#Build 2017**
 
 Введение в [ASP.NET Core 2.0](https://channel9.msdn.com/events/Build/2017/B8048).
@@ -103,3 +105,8 @@
 **События**
 
 Работа с SQL в IDE на базе [IntelliJ](https://info.jetbrains.com/DataGrip-Webinar-Jun2017-Registration.html).
+
+**Разное**
+4 ошибки, которые не должен допускать [серьезный ревьюер кода](http://www.yegor256.com/2015/02/09/serious-code-reviewer.html).
+
+[Практическое машинное обучение](https://monzo.com/blog/2017/05/03/practical-machine-learning-for-startups/) для стартапов.
