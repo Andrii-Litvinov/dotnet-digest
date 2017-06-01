@@ -58,6 +58,8 @@
 
 [Отладка](https://www.youtube.com/watch?v=30jNsCVLpAE), когда все горит.
 
+[Transactions redefined](https://www.youtube.com/watch?v=NqKNqIsB8_k) от автора Event Storming.
+
 **Инструменты**
 
 [Rider](https://blog.jetbrains.com/dotnet/2017/05/08/rider-is-now-also-an-fsharp-ide-adding-fsharp-support/) будет поддерживать F#. И стали извенстны [цены](https://blog.jetbrains.com/dotnet/2017/05/03/rider-licensing-pricing/).
