@@ -77,4 +77,17 @@
 Анимация из капель воды:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">STUNNING: Water drops create beautiful human-like animations <a href="https://t.co/SzMSAeOahp">pic.twitter.com/SzMSAeOahp</a></p>&mdash; Vala Afshar (@ValaAfshar) <a href="https://twitter.com/ValaAfshar/status/876284970087612417">June 18, 2017</a></blockquote>
 
+[Самый секурный пароль](https://mostsecure.pw/) разработанный лучшим экпертами в безопастности. Пользуйтесь осторожно.
+
+Все под контролем:
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/ICyUAp2bHO">pic.twitter.com/ICyUAp2bHO</a></p>&mdash; PUNS (@ThePunnyWorld) <a href="https://twitter.com/ThePunnyWorld/status/884250331445645312">July 10, 2017</a></blockquote>
+
+Как правильно создавать секурные вопросы:
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">Wut. <a href="https://t.co/7Dc5BMzdEX">pic.twitter.com/7Dc5BMzdEX</a></p>&mdash; Phabricator (@phabricator) <a href="https://twitter.com/phabricator/status/887377601441914880">July 18, 2017</a></blockquote>
+
+Когда не останавливается на модульных и пишешь приемочные тесты. Да-да пирамида тестирования:
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When you don&#39;t stop at a unit test and go all the way to integration tests for &quot;done&quot; <a href="https://t.co/4tJqO7LCCr">pic.twitter.com/4tJqO7LCCr</a></p>&mdash; Jimmy Bogard (@jbogard) <a href="https://twitter.com/jbogard/status/887670116032405504">July 19, 2017</a></blockquote>
+
+<iframe src="http://conservativememes.com/embed/i/moustache-position-bottom-align-centre-vaya-hackcrack-15389464" width="500" height="597" frameBorder="0" class="sizzle-embed" style="max-width:100%;" allowFullScreen></iframe><p><a href="http://conservativememes.com/i/moustache-position-bottom-align-centre-vaya-hackcrack-15389464">via conservativememes.com</a></p>
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
