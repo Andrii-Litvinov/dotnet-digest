@@ -6,7 +6,7 @@
 
 Как [динмически конфигурировать зависимости](http://kalapos.net/Blog/ShowPost/IHostingStartupInAspNetCore20) на старте приложения в .NET Core 2.0 на примере ApplicationInsights.
 
-[Еще одна статья на тему зависьмостей](https://cetus.io/tim/ASPNET-Core-2.0-Stripping-Away-Cross-Cutting-Concerns/) и немного больше деталей.
+[Еще одна статья на тему зависимостей](https://cetus.io/tim/ASPNET-Core-2.0-Stripping-Away-Cross-Cutting-Concerns/) и немного больше деталей.
 
 [Улучшения производительности в .NET](https://blogs.msdn.microsoft.com/dotnet/2017/06/07/performance-improvements-in-net-core/). И те же тесты с [BenchmarkDotNet](http://aakinshin.net/blog/post/stephen-toub-benchmarks-part1/).
 
@@ -20,19 +20,29 @@
 
 Небольшая [статистика использования](https://www.jetbrains.com/research/devecosystem-2017/csharp/) C# от JetBrains.
 
+Улучшения в [Environment Tag Helpers](https://scottsauber.com/2017/07/19/environment-taghelper-exclude-and-include-attributes-in-asp-net-core-2/) в ASP.NET Core 2.
+
+[Profile-guided optimization](https://blogs.msdn.microsoft.com/dotnet/2017/07/20/profile-guided-optimization-in-net-core-2-0/) в .NET Core 2.0.
+
 **Моделирование**
 
 [Садим события на диету](https://particular.net/blog/putting-your-events-on-a-diet).
 
-**Интрументы**
+Микросервисы: [композиция интерфейса](https://vimeo.com/223985688).
 
-Поодержка `ValueTuple` в [OrmLite](http://docs.servicestack.net/releases/v4.5.10#support-for-c-7-value-tuples).
+**Инcтрументы**
+
+Подержка `ValueTuple` в [OrmLite](http://docs.servicestack.net/releases/v4.5.10#support-for-c-7-value-tuples).
 
 Производительность [DI конейнеров](https://github.com/stebet/DependencyInjectorBenchmarks).
 
 Большой рефакторинг с R# и [Custon Code Inspections](https://surfingthecode.com/2017/06/null-checking-allocations-and-mass-refactoring-with-resharper/).
 
 Малоизвестный [приемы отладки в VS 2017](https://blogs.msdn.microsoft.com/visualstudio/2017/06/26/7-lesser-known-hacks-for-debugging-in-visual-studio/).
+
+[Rider Release Candidate](https://blog.jetbrains.com/dotnet/2017/07/14/rider-release-candidate-performance-refactorings-unity).
+
+[NCrunch 3.10](https://www.ncrunch.net/download/showChangeLog?version=3.10) AtomicAttribute.
 
 **Интерфейсы**
 
@@ -43,6 +53,8 @@
 Производительная [анимация expand и collapse](https://medium.com/@valdrinkoshi/performant-expand-collapse-animations-93d99e80f7f) эффектов.
 
 Вариант сохранения [глобального состояния в Polymer](https://www.captaincodeman.com/2017/07/06/managing-state-in-polymer-20-beyond-parent-child-binding) без Redux.
+
+Использование [Polymer с Redux](https://www.captaincodeman.com/2017/07/19/project-structure-for-using-redux-with-polymer-20) в реальных приложениях.
 
 Использование [Polymer с Webpack](https://medium.com/dev-channel/how-to-use-polymer-with-webpack-b41812d78b15).
 
@@ -88,6 +100,10 @@
 Когда не останавливается на модульных и пишешь приемочные тесты. Да-да пирамида тестирования:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When you don&#39;t stop at a unit test and go all the way to integration tests for &quot;done&quot; <a href="https://t.co/4tJqO7LCCr">pic.twitter.com/4tJqO7LCCr</a></p>&mdash; Jimmy Bogard (@jbogard) <a href="https://twitter.com/jbogard/status/887670116032405504">July 19, 2017</a></blockquote>
 
+CSS tips & tricks:
 <iframe src="http://conservativememes.com/embed/i/moustache-position-bottom-align-centre-vaya-hackcrack-15389464" width="500" height="597" frameBorder="0" class="sizzle-embed" style="max-width:100%;" allowFullScreen></iframe><p><a href="http://conservativememes.com/i/moustache-position-bottom-align-centre-vaya-hackcrack-15389464">via conservativememes.com</a></p>
+
+Механический двоичный счетчик:
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Mechanical Binary Counter <a href="https://t.co/S1znJ0m2mF">pic.twitter.com/S1znJ0m2mF</a></p>&mdash; Fermat&#39;s Library (@fermatslibrary) <a href="https://twitter.com/fermatslibrary/status/888021435469398018">July 20, 2017</a></blockquote>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
