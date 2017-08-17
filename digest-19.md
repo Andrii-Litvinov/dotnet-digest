@@ -23,4 +23,14 @@
 
 [Соглашение по стилям](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/), структуре типов и проектированию в .NET Standard.
 
+**Архитектура**
+
+Отличные статьи про архитектуру [команд](https://cuttingedge.it/blogs/steven/pivot/entry.php?id=91) и [запросов](https://cuttingedge.it/blogs/steven/pivot/entry.php?id=91), не теряет своей актуальности.
+
+Существуют ли [системы доставки сообщений](https://sookocheff.com/post/messaging/dissecting-sqs-fifo-queues/) с гаратией порядки и единоразовой доставки сообщений. 
+
+**Инфраструктура**
+
+[Azure Container Instances](https://azure.microsoft.com/en-us/services/container-instances/) - дешевый способ депроить контейнеры в Azure.
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
