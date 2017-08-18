@@ -29,6 +29,10 @@
 
 Существуют ли [системы доставки сообщений](https://sookocheff.com/post/messaging/dissecting-sqs-fifo-queues/) с гаратией порядки и единоразовой доставки сообщений. 
 
+[Руководство по архитектуре](https://blogs.msdn.microsoft.com/dotnet/2017/07/26/the-new-net-application-architecture-guidance/) .NET приложений.
+
+Стратегический [DDD с Context Mapping](https://www.infoq.com/articles/ddd-contextmapping).
+
 **Инфраструктура**
 
 [Azure Container Instances](https://azure.microsoft.com/en-us/services/container-instances/) - дешевый способ депроить контейнеры в Azure.
