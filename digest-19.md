@@ -1,4 +1,5 @@
 **.NET Core 2.0**
+
 [Финальная версия](https://github.com/dotnet/announcements/issues/24) .NET Standard 2.0.
 
 [Анонс](https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-core-2-0/) .NET Core 2.0.
@@ -11,7 +12,7 @@
 
 [Анонс](https://blogs.msdn.microsoft.com/webdev/2017/08/14/announcing-asp-net-core-2-0/) ASP.NET Core 2.0.
 
-[Документ](https://github.com/dotnet/roslyn/blob/master/docs/Language%20Feature%20Status.md) содержаий статус разработки новых фич C#.
+[Документ](https://github.com/dotnet/roslyn/blob/master/docs/Language%20Feature%20Status.md) содержащий статус разработки новых фич C#.
 
 **.NET**
 
@@ -21,13 +22,13 @@
 
 [Akka.NET](https://petabridge.com/blog/akkdotnet-dotnet-foundation/) присоединилась к .NET Foundation.
 
-[Соглашение по стилям](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/), структуре типов и проектированию в .NET Standard.
+[Соглашение по стилям](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/), структуре типов и проектированию в .NET.
 
 **Архитектура**
 
 Отличные статьи про архитектуру [команд](https://cuttingedge.it/blogs/steven/pivot/entry.php?id=91) и [запросов](https://cuttingedge.it/blogs/steven/pivot/entry.php?id=91), не теряет своей актуальности.
 
-Существуют ли [системы доставки сообщений](https://sookocheff.com/post/messaging/dissecting-sqs-fifo-queues/) с гаратией порядки и единоразовой доставки сообщений. 
+Существуют ли [системы доставки сообщений](https://sookocheff.com/post/messaging/dissecting-sqs-fifo-queues/) с гаратией порядка и единоразовой доставки сообщений. 
 
 [Руководство по архитектуре](https://blogs.msdn.microsoft.com/dotnet/2017/07/26/the-new-net-application-architecture-guidance/) .NET приложений.
 
@@ -35,13 +36,13 @@
 
 **Инфраструктура**
 
-[Azure Container Instances](https://azure.microsoft.com/en-us/services/container-instances/) - дешевый способ депроить контейнеры в Azure.
+[Azure Container Instances](https://azure.microsoft.com/en-us/services/container-instances/) - новый способ деплоить контейнеры в Azure.
 
 **Инструменты**
 
 Введение в [MSBuild для .NET Core](https://channel9.msdn.com/Shows/Code-Conversations/Introduction-to-MSBuild-in-NET-Core-with-Nate-McMaster).
 
-[Закрытый PR](https://github.com/NuGet/NuGetGallery/pull/4437) в новый NuGet сайт, который вызвал бурю негодования в сообществе и[комметарий](https://cockneycoder.wordpress.com/2017/08/02/some-words-on-nugate/amp/) от автора.
+[Закрытый PR](https://github.com/NuGet/NuGetGallery/pull/4437) в новый NuGet сайт, который вызвал бурю негодования в сообществе и [комметарий](https://cockneycoder.wordpress.com/2017/08/02/some-words-on-nugate/amp/) от автора.
 
 [AutoMapper](https://dotnetfoundation.org/blog/welcome-automapper-to-the-net-foundation) присоединился к .NET Foundation.
 
