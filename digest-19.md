@@ -49,4 +49,30 @@
 
 Обновления [NuGet клиента](https://blog.nuget.org/20170815/Whats-nu-in-NuGet-with-VS2017-15-3.html).
 
+**Разное**
+
+На сколько этично программисту [автоматизировать свою работу](http://bigthink.com/david-ryan-polgar/is-it-ethical-to-automate-your-own-remote-job-and-still-get-paid)?
+
+[5 фич C#](http://blog.takipi.com/c-vs-java-5-irreplaceable-c-features-wed-kill-to-have-in-java/), которые ждависты тоже хотели бы иметь у себя.
+
+[Норвежский новостной сайт](http://www.independent.co.uk/life-style/gadgets-and-tech/news/nrk-norwegian-news-site-comments-read-story-understand-post-quiz-questions-a7607246.html) будет заставлять читателей ответить на вопросы по новости перед тем, как они смогут оставлять комментарии.
+
+Про нашумевший [манифест Гугла](https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788).
+
+В деталях про [виртуальную память в Windows](http://www.triplefault.io/2017/08/exploring-windows-virtual-memory.html).
+
+GitHub делает ставку на [Kubernetes](https://thenewstack.io/github-goes-kubernetes-tells/).
+
+**UI**
+
+Пример [OpenID Connect implicit flow](https://zamboni-app.azurewebsites.net/).
+
+Чего ожидать от Golang 2.0:
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr">🤣 <a href="https://t.co/eiXJv60gxQ">pic.twitter.com/eiXJv60gxQ</a></p>&mdash; Ivan Daniluk (@idanyliuk) <a href="https://twitter.com/idanyliuk/status/894126546021167104">August 6, 2017</a></blockquote>
+
+Замена Ruby на Go:
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Current status: replacing some Ruby services with Go <a href="https://twitter.com/hashtag/golang?src=hash">#golang</a> <a href="https://t.co/rn3ucoIIEz">pic.twitter.com/rn3ucoIIEz</a></p>&mdash; Mayra Cabrera (@may_cabrera) <a href="https://twitter.com/may_cabrera/status/897528184161292288">August 15, 2017</a></blockquote>
+
+Почему стоит пользоваться [системами контроля версий](http://cc.bingj.com/cache.aspx?d=1462716999241&mkt=de-DE&setlang=en-US&w=xEsMxqoa0KJSwMsTh3p_8w2qryykfDvB).
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
