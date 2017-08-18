@@ -37,4 +37,16 @@
 
 [Azure Container Instances](https://azure.microsoft.com/en-us/services/container-instances/) - дешевый способ депроить контейнеры в Azure.
 
+**Инструменты**
+
+Введение в [MSBuild для .NET Core](https://channel9.msdn.com/Shows/Code-Conversations/Introduction-to-MSBuild-in-NET-Core-with-Nate-McMaster).
+
+[Закрытый PR](https://github.com/NuGet/NuGetGallery/pull/4437) в новый NuGet сайт, который вызвал бурю негодования в сообществе и[комметарий](https://cockneycoder.wordpress.com/2017/08/02/some-words-on-nugate/amp/) от автора.
+
+[AutoMapper](https://dotnetfoundation.org/blog/welcome-automapper-to-the-net-foundation) присоединился к .NET Foundation.
+
+[Rider](https://blog.jetbrains.com/dotnet/2017/08/03/rider-2017-1-jetbrains-net-ide-hits-rtm/) получил RTM. Не могу достаточно подчеркнуть крутость этого события.
+
+Обновления [NuGet клиента](https://blog.nuget.org/20170815/Whats-nu-in-NuGet-with-VS2017-15-3.html).
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
