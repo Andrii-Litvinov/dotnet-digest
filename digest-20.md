@@ -18,13 +18,7 @@
 
 Позволяет указать приложению, что на машине, на которую будет осуществлятся развертывание, предустановлены некоторые пакеты, и они не будут включены при релизе, что может значитально уменьшить колличество и размер библиотек, которые нужно копировать при релизе.
 
-[The layout](https://blogs.msdn.microsoft.com/seteplia/2017/05/26/managed-object-internals-part-1-layout/)
-
-[Object header layout and the cost of locking](https://blogs.msdn.microsoft.com/seteplia/2017/09/06/managed-object-internals-part-2-object-header-layout-and-the-cost-of-locking/)
-
-[The layout of a managed array](https://blogs.msdn.microsoft.com/seteplia/2017/09/12/managed-object-internals-part-3-the-layout-of-a-managed-array-3/)
-
-[Fields layout](https://blogs.msdn.microsoft.com/seteplia/2017/09/21/managed-object-internals-part-4-fields-layout/)
+[The layout](https://blogs.msdn.microsoft.com/seteplia/2017/05/26/managed-object-internals-part-1-layout/), [Object header layout and the cost of locking](https://blogs.msdn.microsoft.com/seteplia/2017/09/06/managed-object-internals-part-2-object-header-layout-and-the-cost-of-locking/), [The layout of a managed array](https://blogs.msdn.microsoft.com/seteplia/2017/09/12/managed-object-internals-part-3-the-layout-of-a-managed-array-3/), [Fields layout](https://blogs.msdn.microsoft.com/seteplia/2017/09/21/managed-object-internals-part-4-fields-layout/)
 
 Отличная серия статей о внутренностях managed объектов.
 
@@ -83,3 +77,43 @@ Respawn подготавливает состояние БД перед тест
 [The Death of Continuous Integration](https://www.infoq.com/presentations/death-continuous-integration)
 
 О том, как правильно организовать процесс CD.
+
+**UI**
+
+[Polymer 3.0 preview: npm and ES6 Modules](https://www.polymer-project.org/blog/2017-08-22-npm-modules)
+
+Polymer переезжает на ES6 модули, что ползволит намного проще использовать компоненты а других фреймворках.
+
+[Custom Elements Everywhere](https://custom-elements-everywhere.com/)
+
+Сайт, который показывает насколько хорошо могут работать Custom Elements поддерживаются разниыми фреймворками.
+
+[Use TypeScript to Develop Vue.js Web Applications](https://egghead.io/courses/use-typescript-to-develop-vue-js-web-applications)
+
+[Polymer 3.0 Preview — Building a mini card game](https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6)
+
+Мини-игра построеная на Polymer 3.0 с TypeScript, WebPack и вынесенной в отдельный файл разметкой для компонента.
+
+[Announcing TypeScript 2.5](https://blogs.msdn.microsoft.com/typescript/2017/08/31/announcing-typescript-2-5/)
+
+**Книги**
+
+[Understand The Actor Model From The Ground Up (In < 1 Hour)](https://www.lightbend.com/blog/designing-reactive-systems-with-the-actor-model-free-oreilly-book-by-hugh-mckee)
+
+Довольно интересная небольшая бесплатная книга для понимания модели акторов.
+
+**Видео**
+
+[Progressive .NET London 2017](https://skillsmatter.com/conferences/8268-progressive-dot-net-2017#skillscasts)
+
+[NDC Sydney 2017](https://www.youtube.com/watch?v=63k0Zc3yWb4&list=PL03Lrmd9CiGdch9Ul3PynPDZcZ18sz9KV)
+
+**События**
+
+[Microsoft Connect();](https://www.microsoft.com/en-us/connectevent) November 15-17, 2017
+
+**Разное**
+
+[How image recognition and AI recruit new employees](https://twitter.com/ValaAfshar/status/904097878049779712)
+
+[Deploying Docker Compose to production](https://twitter.com/yogthos/status/910530558832336901)
