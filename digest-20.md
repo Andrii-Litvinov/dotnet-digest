@@ -6,17 +6,17 @@
 
 [Zero Garbage Collector for .NET Core](http://tooslowexception.com/zero-garbage-collector-for-net-core/)
 
-Пример реализации GC, который не собирает мусор. Может быть полезно для небольших утилит, чтобы выжать максимус производительности.
+Пример реализации GC, который не собирает мусор. Может быть полезно для небольших утилит, чтобы выжать максимум производительности.
 
 [ASP.NET Core 2.0 Features](https://blogs.msdn.microsoft.com/webdev/2017/08/25/asp-net-core-2-0-features-1/)
 
-Новооведения в ASP.NET Core, такие, как WebHost builder APIs, Configuration основной сервис, изменения в [HTTP.sys](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/httpsys) и особонно приятный, на мой взгляд, IHostedServices интерфейс, котоый позволяет регистрировать дополнительные background процессы перед стартом ASP.NET Core, как то подписки на очереди сообщений, старт системы акторов, другие сервисы и все это используя теже зарегестрированние в контейнере сервисы. Джва года ждал этой фичи.
+Нововведения в ASP.NET Core, такие, как WebHost builder APIs, Configuration основной сервис, изменения в [HTTP.sys](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/httpsys) и особенно приятный, на мой взгляд, IHostedServices интерфейс, который позволяет регистрировать дополнительные background процессы перед стартом ASP.NET Core, как то подписки на очереди сообщений, старт системы акторов, другие сервисы и все это используя те же зарегистрированные в контейнере сервисы. Джва года ждал этой фичи.
 
 [F# and .NET Core Roadmap Update](https://blogs.msdn.microsoft.com/dotnet/2017/08/14/f-and-net-core-roadmap-update/)
 
 [Runtime package store](https://docs.microsoft.com/en-us/dotnet/core/deploying/runtime-store)
 
-Позволяет указать приложению, что на машине, на которую будет осуществлятся развертывание, предустановлены некоторые пакеты, и они не будут включены при релизе, что может значитально уменьшить колличество и размер библиотек, которые нужно копировать при релизе.
+Позволяет указать приложению, что на машине, на которую будет осуществляться развертывание, предустановлены некоторые пакеты, и они не будут включены при релизе, что может значитально уменьшить количество и размер библиотек, которые нужно копировать при релизе.
 
 [The layout](https://blogs.msdn.microsoft.com/seteplia/2017/05/26/managed-object-internals-part-1-layout/), [Object header layout and the cost of locking](https://blogs.msdn.microsoft.com/seteplia/2017/09/06/managed-object-internals-part-2-object-header-layout-and-the-cost-of-locking/), [The layout of a managed array](https://blogs.msdn.microsoft.com/seteplia/2017/09/12/managed-object-internals-part-3-the-layout-of-a-managed-array-3/), [Fields layout](https://blogs.msdn.microsoft.com/seteplia/2017/09/21/managed-object-internals-part-4-fields-layout/)
 
@@ -28,7 +28,7 @@
 
 [Could not load file or assembly 'netfx.force.conflicts'](https://github.com/dotnet/corefx/issues/23229)
 
-Неприятная проблема, с котороый пришлось столкнуться при поэтапной миграции проекта на .NET Standard 2.0/.NET Core 2.0 и пути ее решения.
+Неприятная проблема, с которой пришлось столкнуться при поэтапной миграции проекта на .NET Standard 2.0/.NET Core 2.0 и пути ее решения.
 
 **Архитектура**
 
@@ -36,7 +36,7 @@
 
 [Avoiding all DI antipatterns for types requiring asynchronous initialization](https://stackoverflow.com/questions/45924027/avoiding-all-di-antipatterns-for-types-requiring-asynchronous-initialization/46027058)
 
-Актульный вопрос о том, как конфигурировать объекты DI контейрерах, для которых нужна асинхронная инициализация. Рекомендуют делать инициализацию перед конфигурацие контейнера.
+Актульный вопрос о том, как конфигурировать объекты в DI контейрерах, для которых нужна асинхронная инициализация. Рекомендуют делать инициализацию перед конфигурацией контейнера.
 
 [Reactive Mistakes: Distributed Transactions](http://www.cakesolutions.net/teamblogs/reactive-mistakes-distributed-transactions)
 
@@ -50,11 +50,11 @@ GraphQL и REST - это не конкуренты, а интсрументы д
 
 [Bogus](https://github.com/bchavez/Bogus)
 
-Генератор фейковых данный с осмысленными значаниями.
+Генератор фейковых данных с осмысленными значениями.
 
 [Refit](https://paulcbetts.github.io/refit/)
 
-Библиотека для автоматической генерации типизированных колиентов для REST API.
+Библиотека для автоматической генерации типизированных клиентов для REST API.
 
 [Call and value tracking come to Rider](https://blog.jetbrains.com/dotnet/2017/09/27/call-value-tracking-come-rider/)
 
@@ -62,7 +62,7 @@ GraphQL и REST - это не конкуренты, а интсрументы д
 
 [AutoFixture: Test name strategies for NUnit3](https://github.com/AutoFixture/AutoFixture/wiki/Known-Issues#test-name-strategies-for-nunit3)
 
-Релиз 3.51 решает проблему именования тестов с динамическими параметрами для VS и NCrunch с помощью атрибуитов `AutoDataFixedName` и `InlineAutoDataFixedName`.
+Релиз 3.51 решает проблему именования тестов с динамическими параметрами для VS и NCrunch с помощью атрибутов `AutoDataFixedName` и `InlineAutoDataFixedName`.
 
 [Respawn vs SQL Server Snapshots](https://jimmybogard.com/respawn-vs-sql-server-snapshots/)
 
@@ -82,17 +82,17 @@ Respawn подготавливает состояние БД перед тест
 
 [Polymer 3.0 preview: npm and ES6 Modules](https://www.polymer-project.org/blog/2017-08-22-npm-modules)
 
-Polymer переезжает на ES6 модули, что ползволит намного проще использовать компоненты а других фреймворках.
+Polymer переезжает на ES6 модули, что позволит намного проще использовать компоненты в других фреймворках.
 
 [Custom Elements Everywhere](https://custom-elements-everywhere.com/)
 
-Сайт, который показывает насколько хорошо могут работать Custom Elements поддерживаются разниыми фреймворками.
+Сайт, который показывает насколько хорошо Custom Elements поддерживаются разными фреймворками.
 
 [Use TypeScript to Develop Vue.js Web Applications](https://egghead.io/courses/use-typescript-to-develop-vue-js-web-applications)
 
 [Polymer 3.0 Preview — Building a mini card game](https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6)
 
-Мини-игра построеная на Polymer 3.0 с TypeScript, WebPack и вынесенной в отдельный файл разметкой для компонента.
+Мини-игра построенная на Polymer 3.0 с TypeScript, WebPack и вынесенной в отдельный файл разметкой для компонента.
 
 [Announcing TypeScript 2.5](https://blogs.msdn.microsoft.com/typescript/2017/08/31/announcing-typescript-2-5/)
 
