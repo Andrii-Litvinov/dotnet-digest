@@ -66,6 +66,14 @@ GraphQL и REST - это не конкуренты, а интсрументы д
 
 Удобный функционал для отслеживания откуда могло прийти значение переменной или где вызывается данный метод. Похоже, эта функция уже была в R#, но я как-то ее пропустил.
 
+[AutoFixture: Test name strategies for NUnit3](https://github.com/AutoFixture/AutoFixture/wiki/Known-Issues#test-name-strategies-for-nunit3)
+
+Релиз 3.51 решает проблему именования тестов с динамическими параметрами для VS и NCrunch с помощью атрибуитов `AutoDataFixedName` и `InlineAutoDataFixedName`.
+
+[Respawn vs SQL Server Snapshots](https://jimmybogard.com/respawn-vs-sql-server-snapshots/)
+
+Respawn подготавливает состояние БД перед тестом на порядки быстрее, чем восстановление из слепка. Тем не менее, как говорит автор, оптимальнее всего огранизовывать тесты таким образом, чтобы они не зависили от состояния таблиц. Это увеличит скорость тестов и позволит выполнять их параллельно.
+
 **CI/CD**
 
 [Trunk-Based Development instead of GitFlow](https://twitter.com/IndritSelimi/status/902878608598986752)
