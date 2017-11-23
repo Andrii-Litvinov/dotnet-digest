@@ -46,3 +46,32 @@ Async Main, выведение имен элементов кортежа, defau
 ](https://stackoverflow.com/questions/41589540/in-c-sharp-7-is-it-possible-to-deconstruct-tuples-as-method-arguments/41590136)
 
 Не сразу было очевидно как использовать деконсруктор в параметрах лямбда-выражения, поэтому решил поделиться: `((string s, int i) _) => ...`
+
+**Архитектура**
+
+[Using Akka.NET Actor Systems in Xamarin Apps](https://gregshackles.com/using-akka-net-in-xamarin-apps/)
+
+[Why does Kafka scale better than other messaging systems like RabbitMQ?](https://www.quora.com/Why-does-Kafka-scale-better-than-other-messaging-systems-like-RabbitMQ/answer/Clemens-Vasters)
+
+Основной поит в том, что MQ системы запопинают какие сообщения какой потребитель обрабатывает и это добавляет много накладных расходов. В Kafka (и EventStore) клиент сам запоминает позицию для чтения освобождая ресурсы системы и увеличиваю пропускную способность.
+
+[The Dark Side of Event Sourcing: Managing Data Conversion](http://files.movereem.nl/2017saner-eventsourcing.pdf)
+
+Пока не читал, но должно быть интетесно, добавил в закладки.
+
+[Software architecture is failing](https://www.alexhudson.com/2017/10/14/software-architecture-failing/)
+
+Статья, вызвавшая много споров в интернетах. Опять же, нужно понимать что делаешь и зачем. [Дисскусия](https://twitter.com/VaughnVernon/status/919712049323634688).
+
+[Scaling Event-Sourcing at Jet](https://medium.com/@eulerfx/scaling-event-sourcing-at-jet-9c873cac33b8)
+
+Крутая статья о архитектуре ES системы, в которой EventStore используется как single source of truth, а проекции строятся на основе Kafka. [Дисскусия](https://twitter.com/eulerfx/status/922881839857008642).
+
+[Event Store Internals and SEDA](https://www.youtube.com/watch?v=jRmpYprh3aE)
+
+Интересное видео о внутренностях Event Store от разработчика, к сожалению с плохим звуком и качеством картинки.
+
+[The 7 Ways to Wash Dishes and the Case for Message-driven Reactive Systems](https://www.lightbend.com/blog/7-ways-washing-dishes-and-message-driven-reactive-systems)
+
+Неблокирующая, асинхронная параллельная обработки сообщений на примере мытья посуды.
+
