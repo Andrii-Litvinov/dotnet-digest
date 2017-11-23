@@ -21,3 +21,28 @@ Async Main, выведение имен элементов кортежа, defau
 [Detect blocking waits](https://github.com/dotnet/corefx/issues/8931#issuecomment-337354565)
 
 Интересный метод как можно найти блокирующие ожиданя задач, такие как `Task.Result` или `Task.Wait`.
+
+[C# 7.2: Understanding Span](https://channel9.msdn.com/Events/Connect/2017/T125)
+
+Хорошее вводное видео о `Span<T>`, для чего нужен и как помогает минимизировать аллокации при работе с массиивами и строками.
+
+[Introducing Nullable Reference Types in C#](https://blogs.msdn.microsoft.com/dotnet/2017/11/15/nullable-reference-types-in-csharp/)
+
+[Plain Functional Programming by Martin Odersky](https://www.youtube.com/watch?v=YXDm3WHZT5g&feature=youtu.be&t=260)
+
+Еще не успел посмотреть видео, но там интересный слайд, что синтаксис C# сильно больше, чем в С++, Java, Haskell и многих других.
+
+[Announcing the Windows Compatibility Pack for .NET Core](https://blogs.msdn.microsoft.com/dotnet/2017/11/16/announcing-the-windows-compatibility-pack-for-net-core/)
+
+Пакет, который добавляет много новых API, включая долгожданный System.Drawing Некоторые только под Win.
+
+[HashCode based on xxHash32](https://github.com/dotnet/coreclr/pull/14863)
+
+Генератор хороших хеш-кодов в corefx.
+
+[Migrating from ASP.NET Identity to Service Stack Authentication](https://medium.com/@williams.jackj/migrating-from-asp-net-identity-to-service-stack-authentication-e9292495d218)
+
+[In C# 7 is it possible to deconstruct tuples as method arguments
+](https://stackoverflow.com/questions/41589540/in-c-sharp-7-is-it-possible-to-deconstruct-tuples-as-method-arguments/41590136)
+
+Не сразу было очевидно как использовать деконсруктор в параметрах лямбда-выражения, поэтому решил поделиться: `((string s, int i) _) => ...`
