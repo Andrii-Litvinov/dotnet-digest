@@ -1,7 +1,5 @@
 **.NET**
 
-[Real-World ASP.NET Core Logging Configuration](https://mitchelsellers.com/blogs/2017/10/09/real-world-aspnet-core-logging-configuration)
-
 [.NET Framework 4.7.1 Runtime and Compiler Features](https://blogs.msdn.microsoft.com/dotnet/2017/09/28/net-framework-4-7-1-runtime-and-compiler-features/)
 
 Поддержки .NET Standard 2.0 на уровне BCL, улучшение производительности GC, `ValueTuple` теперь сериализуемые, Runtime Feature Detection.
@@ -75,3 +73,42 @@ Async Main, выведение имен элементов кортежа, defau
 
 Неблокирующая, асинхронная параллельная обработки сообщений на примере мытья посуды.
 
+**Инструменты**
+
+[Real-World ASP.NET Core Logging Configuration](https://mitchelsellers.com/blogs/2017/10/09/real-world-aspnet-core-logging-configuration)
+
+[HashiCorp Consul 1.0](https://www.hashicorp.com/blog/hashicorp-consul-1-0)
+
+[REST Client for VS Code, an elegant alternative to Postman](http://josephwoodward.co.uk/2017/10/rest-%20client-for-vs-code-an-elegant-alternative-postman)
+
+[The Icon Journey](https://code.visualstudio.com/blogs/2017/10/24/theicon)
+
+В VS Code вернули синюю иконку, немного детелей и размышлений на тему.
+
+[Beta Docker for Mac and Windows with Kubernetes](https://blog.docker.com/2017/10/docker-for-mac-and-windows-with-kubernetes-beta/)
+
+[Ben.Demystifier](https://github.com/benaadams/Ben.Demystifier)
+
+Крутой инструмент для создания более читабФельных stack-traces. Уже можно найти расширения для фреймворков логгирования.
+
+[Bundling .NET build tools in NuGet](http://www.natemcmaster.com/blog/2017/11/11/build-tools-in-nuget/)
+
+В новой системе пакетов PackageReference добавили возможность добавлять команды MSBuild. Новые версии OctoPack уже умеют с этим работать.
+
+[xUnit Roslyn Analyzers](http://davidpine.net/blog/xunit-powered-by-roslyn/)
+
+[Introducing API Analyzer](https://blogs.msdn.microsoft.com/dotnet/2017/10/31/introducing-api-analyzer/)
+
+[.NET debugger and assembly editor](https://github.com/0xd4d/dnSpy)
+
+[dotnet xunit fails for .NET Core 2.0.3 with .NET Core SDK 2.0.3](https://github.com/xunit/xunit/issues/1573)
+
+Задуманное поведение о котором стоит знать.
+
+[.NET (Micro)ORM fetch benchmark results and the fine details](https://weblogs.asp.net/fbouma/net-micro-orm-fetch-benchmark-results-and-the-fine-details)
+
+[Analyzing performance of asynchronous .NET code with dotTrace](https://blog.jetbrains.com/dotnet/2017/11/22/analyzing-performance-asynchronous-net-code-dottrace/)
+
+Фича, которой очень нехватало и которую VS умела. Здорово, что они ее наконец добавили.
+
+[Code formatting engine updates in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2017/11/23/code-formatting-engine-updates-resharper-rider/)
