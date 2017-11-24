@@ -112,3 +112,63 @@ Async Main, выведение имен элементов кортежа, defau
 Фича, которой очень нехватало и которую VS умела. Здорово, что они ее наконец добавили.
 
 [Code formatting engine updates in ReSharper and Rider](https://blog.jetbrains.com/dotnet/2017/11/23/code-formatting-engine-updates-resharper-rider/)
+
+**UI**
+
+[Vue 2.5 released](https://medium.com/the-vue-point/vue-2-5-released-14bd65bf030b)
+
+[Documenting the Web together](https://blogs.windows.com/msedgedev/2017/10/18/documenting-web-together-mdn-web-docs/)
+
+MS решили использовать MDN как единый актуальный источник документации для веба.
+
+[2018: 120fps and no jank](https://dassur.ma/things/120fps/)
+
+Размышления о том, как можно добиться лушей производительность приложений в виду того, что новые девайсы подеерживают частоту обновления 120 Гц.
+
+[The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+
+Очень интересная статья о производительности JS.
+
+**Книги**
+
+[Exploring .NET Core with Microservices, ASP.NET Core, and Entity Framework Core](https://www.manning.com/books/exploring-dot-net-core)
+
+Бесплатная книга, сам пока не читал, но возможно, стоит полистать.
+
+[Free Ebook: The Cloud Native Attitude](http://container-solutions.com/ebook-the-cloud-native-attitude)
+
+**Разное**
+
+[5 challenges in the developer to CEO transition](https://raygun.com/blog/top-5-challenges-in-the-developer-to-ceo-transition/)
+
+[Life Is About to Get a Whole Lot Harder for Websites Without HTTPS](https://www.troyhunt.com/life-is-about-to-get-harder-for-websites-without-https/)
+
+[Becoming Foolish](https://hmemcpy.com/2017/10/becoming-foolish/)
+
+О том, почему стоит поинтересоваться фкнциональными языками программирования.
+
+[The QUIC transport protocol: design and Internet-scale deployment](https://blog.acolyer.org/2017/10/26/the-quic-transport-protocol-design-and-internet-scale-deployment/)
+
+Новый протокол от Гугла, который совершает шифрование и траспортировку за один запрос, т.е. экономит на запросах, но сильнее нагружает процессор.
+
+[My First Day at Accenture – The Start of the 104-Hour Workweek](http://exposingevilempire.com/accenture/first-day-accenture-104-hour-workweek/)
+
+О рабстве на работе.
+
+[Promise Theory - Basic Concepts (part 1)](https://www.youtube.com/watch?v=2TPsB5WuZgk)
+
+[Trunk Based Development](https://trunkbaseddevelopment.com/)
+
+Сайт позвященные Trunk Based Development. Отличный ресурс чтобы понять почему, зачем и как.
+
+[Architecting for Continuous Delivery](https://www.thoughtworks.com/insights/blog/architecting-continuous-delivery)
+
+[How to choose (and contribute to) your first open source project](https://github.com/collections/choosing-projects)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Generations of programmers have been confused because the wrong word is used...<br><br>Its &quot;offset&quot; from start, not &quot;index&quot; - and that&#39;s why it starts at zero! <a href="https://t.co/p1ecpscVY8">pic.twitter.com/p1ecpscVY8</a></p>&mdash; Ben Adams 🐝 (@ben_a_adams) <a href="https://twitter.com/ben_a_adams/status/929294843939098624?ref_src=twsrc%5Etfw">November 11, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Reminded of a past conversation ...<br>X: We&#39;re going to spend $1bn on this effort.<br>Me: I can deliver the same result for $20m.<br>X: How?<br>Me: pay me $20m to sit on a beach drinking and in five years I&#39;ll phone you up to say &quot;we failed&quot;. <br>... 5 years later<br>X: I wish we paid you $20m.</p>&mdash; swardley (@swardley) <a href="https://twitter.com/swardley/status/933069547271327744?ref_src=twsrc%5Etfw">November 21, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Haskell is faster than C++, more concise than Perl, more regular than Python, more flexible than Ruby, more typeful than C#, more robust than Java, and has absolutely nothing in common with PHP.&quot; — Autrijus Tang</p>&mdash; Programming Wisdom (@CodeWisdom) <a href="https://twitter.com/CodeWisdom/status/933772527498874880?ref_src=twsrc%5Etfw">November 23, 2017</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
