@@ -102,6 +102,7 @@
 [Remote-First vs. Remote-Friendly](https://zachholman.com/posts/remote-first/)
 
 [Thanks a Million, Jon Skeet!](https://stackoverflow.blog/2018/01/15/thanks-million-jon-skeet/)
+
 Jon Skeet заработал 1М рейтинга на SO.
 
 [12 tips to write unit tests that don't cripple your codebase](http://www.continuousimprover.com/2015/11/12-tips-to-write-unit-tests-that-dont.html)
