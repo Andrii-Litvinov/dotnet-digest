@@ -80,8 +80,48 @@
 
 **Книги**
 
+[Why Great Teams Embrace Remote Work](http://info.trello.com/embrace-remote-work-ultimate-guide)
+
+[Distilling Domain-Driven Design](https://forcomprehension.com/course/dddd/)
+
 **Разное**
 
 [Framework Benchmarks Round 15](https://www.techempower.com/blog/2018/02/14/framework-benchmarks-round-15/)
+
+[Stack Overflow Developer Survey 2017](https://insights.stackoverflow.com/survey/2017)
+
+[Remote Work in the 2017 Developer Survey](https://stackoverflow.blog/2018/01/22/remote-work-2017-developer-survey/)
+
+[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
+[31 Million Client Registration Files Leaked by Personalized Keyboard Developer](https://mackeepersecurity.com/post/virtual-keyboard-developer-leaked-31-million-of-client-records)
+
+[Functional Geekery Episode 118 – Scott Nimrod](https://www.functionalgeekery.com/episode-118-scott-nimrod/)
+О том, что происходит с F#, использовании в продакшене, инструментах.
+
+[Remote-First vs. Remote-Friendly](https://zachholman.com/posts/remote-first/)
+
+[Thanks a Million, Jon Skeet!](https://stackoverflow.blog/2018/01/15/thanks-million-jon-skeet/)
+Jon Skeet заработал 1М рейтинга на SO.
+
+[12 tips to write unit tests that don't cripple your codebase](http://www.continuousimprover.com/2015/11/12-tips-to-write-unit-tests-that-dont.html)
+
+[Crossover Hiring Tournament - Kiev](https://www.youtube.com/watch?v=S_cKynIu5vw)
+
+Видео турнира, в котром я принимал участие. Было весело. Рекомендую поучавствовать. Для когото это может быть возможность проверить свои скилы, для кого-то, возможно, найти более интересную работу.
+
+**GitHub PRs**
+
+[Remove my password from lists so hackers won't be able to hack me](https://github.com/danielmiessler/SecLists/pull/155)
+
+[Add configure option to enable blockchain usage](https://github.com/mono/mono/pull/7041)
+
+**Интересные твиты**
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;A developed country is not a place where the poor have cars. It&#39;s where the rich use public transportation.&quot; —<a href="https://twitter.com/EnriquePenalosa?ref_src=twsrc%5Etfw">@EnriquePenalosa</a> <br>(Photo: <a href="https://twitter.com/hashtag/Strasbourg?src=hash&amp;ref_src=twsrc%5Etfw">#Strasbourg</a>, France) <a href="https://t.co/6FOhg9DsWf">pic.twitter.com/6FOhg9DsWf</a></p>&mdash; Taras Grescoe (@grescoe) <a href="https://twitter.com/grescoe/status/938423313235349505?ref_src=twsrc%5Etfw">December 6, 2017</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Holy moly. You can write a key logger  in pure CSS. I wonder if <a href="https://twitter.com/reddit?ref_src=twsrc%5Etfw">@reddit</a> custom themes would be vulnerable. <a href="https://t.co/yfxrLLhOvT">https://t.co/yfxrLLhOvT</a> <a href="https://t.co/WKsrBLCQv5">pic.twitter.com/WKsrBLCQv5</a></p>&mdash; Jordan ⚡️ Eldredge (@captbaritone) <a href="https://twitter.com/captbaritone/status/966051583132758016?ref_src=twsrc%5Etfw">February 20, 2018</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A senior programmer is merely a junior programmer who has given up</p>&mdash; Slava Pestov (@slava_pestov) <a href="https://twitter.com/slava_pestov/status/966050893161361408?ref_src=twsrc%5Etfw">February 20, 2018</a></blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
