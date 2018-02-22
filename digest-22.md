@@ -24,19 +24,19 @@
 
 [A new experiment: Browser-based web apps with .NET and Blazor](https://blogs.msdn.microsoft.com/webdev/2018/02/06/blazor-experimental-project/)
 
-Анонс экспериментального фрейморка, который позволяет выполнять Razer страницы в браузере используя WebAssembly.
+Анонс экспериментального фреймворка, который позволяет выполнять Razer страницы в браузере используя WebAssembly.
 
 **Архитектура**
 
 [AWS Lambda Reserved Concurrency](https://blog.symphonia.io/aws-lambda-reserved-concurrency-f2c3a32b9f1d)
 
-Возможность ограничивать количество одновременно выполняющихся лямбд чтобы котролировать нагузку на БД или другие системы.
+Возможность ограничивать количество одновременно выполняющихся лямбд чтобы контролировать нагрузку на БД или другие системы.
 
 [Using the MongoDB Oplog to trigger asynchronous work](https://engineering.yesware.com/2016/03/22/using-the-mongodb-oplog-to-trigger-asynchronous-work/)
 
 [Sure, you can just use RabbitMQ](https://www.make-awesome.com/2017/12/sure-you-can-just-use-rabbitmq/)
 
-Что нужно иметь в виду при проектированиие системы обмена сообщениями.
+Что нужно иметь в виду при проектированиие систем обмена сообщениями.
 
 [Should You Put Several Event Types in the Same Kafka Topic?](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)
 
@@ -52,11 +52,11 @@
 
 [Debugging third-party code with Rider](https://blog.jetbrains.com/dotnet/2017/12/20/debugging-third-party-code-rider/)
 
+Очень удобная штука с генерацией исходников на лету.
+
 [Curated list of Rider content](https://github.com/maartenba/rider-content/blob/master/README.md)
 
 [General web development updates in Rider 2017.3](https://blog.jetbrains.com/dotnet/2018/02/21/general-web-development-updates-rider-2017-3/)
-
-Очень удобная штука с генерацией исходников на лету.
 
 [Tar and Curl Come to Windows!](https://blogs.technet.microsoft.com/virtualization/2017/12/19/tar-and-curl-come-to-windows/)
 
@@ -97,6 +97,7 @@
 [31 Million Client Registration Files Leaked by Personalized Keyboard Developer](https://mackeepersecurity.com/post/virtual-keyboard-developer-leaked-31-million-of-client-records)
 
 [Functional Geekery Episode 118 – Scott Nimrod](https://www.functionalgeekery.com/episode-118-scott-nimrod/)
+
 О том, что происходит с F#, использовании в продакшене, инструментах.
 
 [Remote-First vs. Remote-Friendly](https://zachholman.com/posts/remote-first/)
@@ -109,7 +110,7 @@ Jon Skeet заработал 1М рейтинга на SO.
 
 [Crossover Hiring Tournament - Kiev](https://www.youtube.com/watch?v=S_cKynIu5vw)
 
-Видео турнира, в котром я принимал участие. Было весело. Рекомендую поучавствовать. Для когото это может быть возможность проверить свои скилы, для кого-то, возможно, найти более интересную работу.
+Видео турнира, в котром я принимал участие. Было весело, рекомендую поучаствовать. Для кого-то это может быть возможность проверить свои скилы, для кого-то, возможно, найти более интересную работу.
 
 **GitHub PRs**
 
