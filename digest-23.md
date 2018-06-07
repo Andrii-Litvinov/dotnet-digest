@@ -1,6 +1,6 @@
 **.NET**
 
-[Allocation-free awaitable async operations with ValueTask<T> and ValueTask](https://github.com/dotnet/corefx/issues/27445)
+[Allocation-free awaitable async operations with ValueTask&lt;T&gt; and ValueTask](https://github.com/dotnet/corefx/issues/27445)
 
 [Migrating from aspnetcore docker repos to dotnet](https://github.com/aspnet/Announcements/issues/298)
 
