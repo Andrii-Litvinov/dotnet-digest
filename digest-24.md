@@ -86,6 +86,8 @@
 
 > Another cool feature of PackageReference is when you reference project that has a dependency on a package you don't need to add that other dependency to your project. E.g.: if Model project defines a reference to MongoDB.Driver we don't have to reference MongoDB.Driver in any other project in the entire solution to use it. Clean.
 
+> So migration of projects to .NET Standard was a breathe after the work I've been doing past few days. Really happy about it. And more exciting thing is that  we can do it gradually when it makes sense for particular project.
+
 > With PackageReference it is possible to perform a regex find-and-replace to update/modify package version to update/consolidate packages which will perform incredibly fast comparing to doing it via UI. Still excited about it 😊.
 
 Вот собственно статья, в которой описаны детали [How NuGet resolves package dependencies](https://docs.microsoft.com/en-us/nuget/consume-packages/dependency-resolution). Поэтому, очень рекомендую. Если есть вопросы - пишите в комментариях, попробую помочь.
