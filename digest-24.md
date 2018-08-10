@@ -32,7 +32,7 @@
 
 [Event Sourcing in Action with eBay's Continuous Delivery Team](https://www.ebayinc.com/stories/blogs/tech/event-sourcing-in-action-with-ebays-continuous-delivery-team/)
 
-Люблпытный подход к реализации EventSourcing'а c MongoDB и Akka.
+Любопытный подход к реализации EventSourcing'а c MongoDB и Akka.
 
 [7 best practices for building containers](https://cloudplatform.googleblog.com/2018/07/7-best-practices-for-building-containers.html)
 
@@ -54,7 +54,7 @@
 
 [Version control improvements in Rider 2018.1](https://blog.jetbrains.com/dotnet/2018/06/05/version-control-improvements-rider-2018-1/)
 
-Крутая штука. Полностью перешаел на работу с гитом их Райдера. Все невероятно шутро работает даже на больших проектах. До этого пользовался SorceTree и GitKraken.
+Крутая штука. Полностью перешел на работу с гитом их Райдера. Все невероятно шутро работает даже на больших проектах. До этого пользовался SorceTree и GitKraken.
 
 **UI**
 
@@ -76,16 +76,16 @@
 
 **События**
 
-26-27 октября в Киеве пройдет коференция [.NET Fest 2018](www.dotnetfest.com). Организаторы поделились 10%-й скидкой на билеты по промокоду DOUDIGEST.
+26-27 октября в Киеве пройдет коференция [.NET Fest 2018](www.dotnetfest.com). Организаторы поделились 10%-й скидкой на билеты по промокоду **DOUDIGEST**.
 
-В этом дайджесте материала меньше, чем обычно, лето ведь. Поэтому я решил поделиться радостью: мы с командой наконец-то решились перевести проект на PackageReference чтобы дальше мигрировать на .NET Standard/.NET Core. Проект довольно большой больше ста проектов (простите за тафтооргию.) Миграция у меня заняла Чуть больше дня. Были некоторые трудности с миграцией Web API проектоа так как они не поддреживаюится из коробки, поэтому применялись некоторые хаки. И какое-то время заняла праильная настройка binding redirects. А вцелом все прошло довольно гладко. После этого мигрировал некоторые проекты на .NET Standard 2.0 - все замечательно вместе работает. Я делилтся впечатлениями в командном чате, вот несколько цитат:
+
+
+В этом дайджесте материала меньше, чем обычно, лето, ведь. Поэтому, я решил поделиться радостью: мы с командой наконец-то решились перевести проект на PackageReference чтобы дальше мигрировать на .NET Standard/.NET Core. Проект довольно большой больше ста проектов (простите за тавтологию). Миграция у меня заняла чуть больше дня. Были некоторые трудности с переводом Web API проектов, так как они не поддреживаюится из коробки, поэтому применялись некоторые хаки. И какое-то время заняла праильная настройка binding redirects. А вцелом все прошло довольно гладко. После этого мигрировал некоторые проекты на .NET Standard 2.0 - все замечательно вместе работает. Я делилтся впечатлениями в командном чате, вот несколько цитат:
 
 > One of the benefits of package reference is that now we’ll predictably get the version of the package if multiple versions are present in the solution. Which makes it easier to deal with binding redirects. Previously assembly could have been overwritten by earlier version and break the redirect setting.
 
-> Another cool feature of PackageReference is when you reference project that has a dependency on a package you don't need to add this dependency to your project. E.g.: if Model project defines a reference to MongoDB.Driver we don't need to reference MongoDB.Driver in any other project in the entire solution. Clean.
+> Another cool feature of PackageReference is when you reference project that has a dependency on a package you don't need to add that other dependency to your project. E.g.: if Model project defines a reference to MongoDB.Driver we don't have to reference MongoDB.Driver in any other project in the entire solution to use it. Clean.
 
 > With PackageReference it is possible to perform a regex find-and-replace to update/modify package version to update/consolidate packages which will perform incredibly fast comparing to doing it via UI. Still excited about it 😊.
 
-Вот собственно статья, в которой это описаны детали [How NuGet resolves package dependencies](https://docs.microsoft.com/en-us/nuget/consume-packages/dependency-resolution).
-
-Поэтому очень рекомендую. Если есть вопросы - пишите в комментариях.
+Вот собственно статья, в которой описаны детали [How NuGet resolves package dependencies](https://docs.microsoft.com/en-us/nuget/consume-packages/dependency-resolution). Поэтому, очень рекомендую. Если есть вопросы - пишите в комментариях, попробую помочь.
