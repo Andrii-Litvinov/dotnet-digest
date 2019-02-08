@@ -22,7 +22,7 @@
 
 [Apache Kafka is not for Event Sourcing](https://medium.com/serialized-io/apache-kafka-is-not-for-event-sourcing-81735c3cf5c)
 
-Часто слышу, как люди заблуждаются на этот счет. Отличная статья с объяснениями на этот счет.
+Часто слышу, как люди заблуждаются на этот счет. Отличная статья с объяснениями почему это не так.
 
 **Tools**
 
