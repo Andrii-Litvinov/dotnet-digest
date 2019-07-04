@@ -16,6 +16,8 @@
 
 [ASP.NET  Core 3.0 now natively supports the w3c trace-context](https://twitter.com/davidfowl/status/1144127100997128197)
 
+[VERSIONING LIMITATIONS IN .NET](https://codeblog.jonskeet.uk/2019/06/30/versioning-limitations-in-net/)
+
 [Core dump of StackOverflowException](https://github.com/dotnet/coreclr/issues/24779)
 
 Мы в компании стремительно движемся в сторону контейнеризации, много сервисов уже переехали в Docker и я задался вопросом как получить и анализировать crash dump (он же core dump) в случае возникновения StackOverflowException. Все оказалось совсем нетривиально и на данный момент хоть дамп получить и можно, явно выявить источник ошибки сходу не получится, придется проходится по каждому потоку, смотреть где огромный стек-трейс и мапить символы вручную. Обещают пофиксить это в релизу 3.0. Но то, что можно собрать дамп и хоть как-то его проанализировать уже большое дело. В issue я подробно описал шаги как это скофигурить.
@@ -33,6 +35,8 @@
 >the method is close enough to be pure that it's testable. The interactions of TryAccept and any client code (including unit tests) is completely controllable and observable by the client.
 >This means that there's no reason to Stub it out.
 
+[Building a Distributed Log from Scratch](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/)
+
 **Разное**
 
 [HAProxy 2.0 Adds Kubernetes](https://thenewstack.io/haproxy-2-0-adds-kubernetes-pushes-polyglot-extensibility/)
@@ -45,4 +49,4 @@
 
 **События**
 
-18-20 ноября в Киеве пройдет конференция Build Stuff Ukraine. Спешу поделиться промокодом на скидку в 10%: **BUILDUA10**, так как до 14-го июля действует Early Bird цена. Пользуйтесь возможностью. 
+18-20 ноября в Киеве пройдет конференция [Build Stuff Ukraine](https://www.ukraine.buildstuff.events). Спешу поделиться промокодом на скидку в 10%: **BUILDUA10**, так как до 14-го июля действует Early Bird цена. Пользуйтесь возможностью. 
